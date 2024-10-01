@@ -13,7 +13,7 @@ To install and run the app, follow these steps:
 
 1. Ensure you have Python 3.x installed on your machine.
 2. Install the required Python libraries:
-'pip install tkinter pypdf pdfplumber fitz sv_ttk tkinterdnd2'
+`pip install tk pypdf pdfplumber fitz sv_ttk tkinterdnd2`
 3. Run the script:
 `python IPPExhibit.py`
 
